@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1351626217,
+	"installed_packages":
+	[
+		"Cucumber",
+		"Haml",
+		"Sass"
+	]
+}

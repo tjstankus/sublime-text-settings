@@ -1,9 +1,9 @@
 {
 	"auto_complete": false,
 	"caret_style": "wide",
-	"color_scheme": "Packages/User/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
 	"font_face": "Droid Sans Mono",
-	"font_size": 15,
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
